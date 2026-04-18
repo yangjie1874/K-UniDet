@@ -27,7 +27,7 @@ WD-5 is a large-scale benchmark dataset for few-shot wheat disease detection, co
 
 The test set is now publicly available:
 
-> 📥 **[Download WD-5 Test Set (Google Drive)](https://drive.google.com/file/d/12bN2vdeIRi_qb7azZgbzMOGjlz2jf-em/view?usp=sharing)**
+> 📥 **[Download WD-5 Test Set (Google Drive)](https://drive.google.com/drive/folders/1o7VAoSNO2-YabayVxIbWb39BiDUrFWMW?usp=sharing)**
 
 ## 🚀 Code
 
